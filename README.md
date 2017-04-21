@@ -10,7 +10,7 @@ After opening a new file in inkscape, you can go to *file > document properties*
 
 ### General tips
 
-###### Shape fill and line
+##### Shape fill and line
 It can be very useful to make your shapes semitransparent. This can be achieved by rightclicking a shape, and choosing *fill and line*.
 You can then set the alpha value in fill. This will also be used for future shapes that you create.
 
