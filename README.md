@@ -10,7 +10,7 @@ After opening a new file in inkscape, you can go to *file > document properties*
 
 ### General tips
 
-##### Shape fill and line
+#### Shape fill and line
 It can be very useful to make your shapes semitransparent. This can be achieved by rightclicking a shape, and choosing *fill and line*.
 You can then set the alpha value in fill. This will also be used for future shapes that you create.
 
@@ -25,7 +25,7 @@ This behaviour can be controlled with the toolbar ([image](http://i.imgur.com/7m
 The main useful ones are the first 4 ones.
 The snapping works based on how far your cursor is on the screen from the point, so you can zoom in or out if you experience unintended snapping.
 
-###### Grid
+##### Grid
 I personally prefer to work without a grid, but some people like it more. Grid can be disabled and enabled in *page > grid*
 
 
