@@ -1,6 +1,6 @@
 # Lasercutting with Inkscape for dummies
 
-a collection of tricks and techniques that I have accumulated to efficiently create vectorfiles for lasercutting. I wrote
+a collection of tricks and techniques that I have accumulated to efficiently create vectorfiles for lasercutting.
 
 
 ### Creating new files
